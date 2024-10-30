@@ -1,0 +1,54 @@
+.bg-thin{
+    background-color: rgb(248 249 251);
+}
+.bg-normal{
+    background-color: rgb(214, 225, 226);
+}
+.bg-heavy{
+    background-color: rgb(74,107,118);
+}
+.bg-xheavy{
+    background-color: rgb(33 47 53);
+}
+.bg-banana{
+    background-color: rgb(199 231 108);
+}
+.text-banana{
+    color: rgb(199 231 108);
+}
+.line1st{
+    font-size: 13px;
+}
+.line1st p{
+    margin-bottom: 0;
+}
+
+
+.rubik-bold {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 550;
+    font-style: normal;
+  }
+.rubik{
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+  
+}
+.gadget-text{
+    color: rgb(33 47 53);
+}
+
+.fs-6plus{
+    font-size: 18px;
+}
+.fs-6down{
+    font-size: 14px;
+}
+.banner1st{
+    background-image: url(../img/bg1st.jpg);
+    background-size: cover;
+  background-repeat: no-repeat;
+}
